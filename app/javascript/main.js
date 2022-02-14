@@ -5,7 +5,7 @@ import "./src/jquery.countdown.min"
 import "./src/jquery.counterup.min"
 import "./src/waypoints.min"
 
-import "./src/classynav"
+import "./src/classyNav"
 import "./src/jquery.sticky.min"
 import "./src/jquery.scrollup.min"
 import "./src/simple.ticker.min"
